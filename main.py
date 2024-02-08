@@ -5,7 +5,7 @@ COMPANY_NAME = "Bitcoin"
 
 # Stocks infos
 stocks_url = "https://www.alphavantage.co/query"
-stocks_api_key = "JY2F55IRE1GQJUU0"
+stocks_api_key = "USE-YOUR-OWN-API"
 
 stocks_params = {
     "function": "DIGITAL_CURRENCY_DAILY",
@@ -15,7 +15,7 @@ stocks_params = {
 }
 # News infos
 news_url = "https://newsapi.org/v2/everything"
-news_api_key = "154abd91a5f14f76b225a3bb2b45167a"
+news_api_key = "USE-YOUR-OWN-API"
 
 news_params = {
     "apiKey": news_api_key,
